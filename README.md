@@ -1,22 +1,8 @@
-# 🌦 Week07 Bootcamp2018c Project: Weather API
+![alt tag](image/readme.png)
 
-### Goal: Enable your user to enter a city + country and return the temperature in Fahrenheit
+Tech Used: Html, Css, API
 
-### How to submit your code for review:
+My goal while doing this project, was to better understand how APIs work.
+I was able to provide forecast data for my applications using an API.
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
-
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+What I learned is an API is a set of clearly defined methods of communication among various components.
